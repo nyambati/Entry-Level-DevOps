@@ -1,0 +1,1 @@
+The Fellow should know how to quickly deploy and manage applications in the cloud using tools such as Elastic Beanstalk and Code Deploy.

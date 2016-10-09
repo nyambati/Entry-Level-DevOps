@@ -1,6 +1,0 @@
-- Display network interfaces
-- Display network routing table
-- Use a subnet mask to allocate IP addresses on a network
-- Setup port forwarding from one host to another
-- View all open and connected ports on a system
-- Use a network firewall to control access to a system

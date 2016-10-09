@@ -1,0 +1,1 @@
+The Fellow should know how to use, setup and configure client and server versions of build and configuration management tools such as Chef, Puppet or Ansible.
